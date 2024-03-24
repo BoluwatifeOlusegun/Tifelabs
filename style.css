@@ -1,0 +1,44 @@
+  /* Heading background */
+#background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172, #A1C398);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  /* Profile Picture */
+#pfp-picture{
+    border-radius: 50px 0px;
+    width: 300px;
+    height: 400px;
+  }
+
+
+
+ .intro{
+    margin-left: 60px;
+  }
+
+.lead{
+    font-family: sans-serif;
+  }
+
+.cards{
+    display: flex;
+    gap: 30px;
+}
+
+.carousel slide{
+    height: 10px;
+}
