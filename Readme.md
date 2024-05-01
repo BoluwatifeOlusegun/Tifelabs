@@ -1,5 +1,16 @@
-## Welcome to my Web Portfolio
-This portfolio provides insights into who I am, my interests,and the technology stacks I specilize in. Enxplore to learn more about my journey and expertise!...
+### Hello I'm <font color="blue">Tife</font> 👋
+<p align="center">
+I am a Backend Software Dev
+</p>
 
-## View 
-[View portfolio](https://boluwatifeolusegun.github.io/Tifelabs/).
+<p align="center">
+ I’m currently working on JavaScript and Bash...
+</p>
+
+<p align="center">
+⌜ I am excited about learning new things ⌟
+</p>
+
+<p align="center">
+════ ⋆★⋆ ════
+</p>
